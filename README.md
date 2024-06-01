@@ -1,16 +1,17 @@
-## Hi there 👋
+# Juan Emanuel Castro
 
-<!--
-**juanemanuelcastro/juanemanuelcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante Universitario (Undergraduate Student)
 
-Here are some ideas to get you started:
+U.N.P.S.J.B - Universidad Nacional de la Patagonia San Juan Bosco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ciudad Universitaria Km 4, 9005 Comodoro Rivadavia
+
+Argentina, Chubut,
+
+## Educacion (Education)
+ - 2019 - *Present* APU (Analista Programador Informatico) , Universidad Nacional de la Patagonia San Juan Bosco
+
+
+## Habilidades (Skills)
+ - Lenguajes (Languages): Spanish (Native); English ; French
+ - Programming Language: Python
