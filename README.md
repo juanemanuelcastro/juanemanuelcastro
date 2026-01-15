@@ -3,8 +3,8 @@ I'm a Programming student focused on entering the IT industry, currently trainin
 
 ## Tech Stack & Skills
 - **Programming & Web**: Python, Ada, HTML, CSS, JavaScript, Bash
-- **Operating Systems**: Arch Linux (CachyOS)
-- **Tools & Technologies**: Git, VirtualBox, Docker (basic), Nmap
+- **Operating Systems**: Arch Linux (CachyOS), Ubuntu
+- **Tools & Technologies**: Git, VirtualBox, Docker (basic)
 - **QA & IT Fundamentals**: Manual testing, test cases, bug reporting, basic API testing
 - **Systems & Support**: PC repair and maintenance, basic networking, IT support
 
